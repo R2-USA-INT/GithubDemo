@@ -9,6 +9,13 @@ Amala Changes 1
 Piyush changes 1
 Amala Change2
 Neha Change 2
+<<<<<<< HEAD
+Piyush from Github
+New Change
+From Eclipse
+Pushed conflicts
+More chnages
+=======
 Neha Change 3
 Neha Change 4 - New commit
 Test New Neha Changes
