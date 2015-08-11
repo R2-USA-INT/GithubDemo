@@ -10,6 +10,10 @@ metadataFormatVersion=31.0
 namespacePrefix=
 packageName=unpackaged
 preferToolingDeployment=true
+<<<<<<< HEAD
 projectIdentifier=IDE-1222560176332454326
+=======
+projectIdentifier=IDE8341076012740005547
+>>>>>>> refs/heads/Deloitte_PB
 readTimeout=400
-username=piyushbathwal@oneforce.com
+username=k_amala@salesforce.com
