@@ -5,8 +5,7 @@ global with sharing class Example_Controller {
     public static String jsonAccount2{get;set;}
     public static String jsonAccount3{get;set;}
     public static String jsonAccount4{get;set;}
-    public static String jsonAccount6{get;set;}
-       
+    
     global Example_Controller(){
         jsonAccount = JSON.serialize(new Account());
         
@@ -17,7 +16,7 @@ global with sharing class Example_Controller {
             lstTypes.add(new Option(ple.getLabel(), ple.getValue()));
             
         jsonTypeOptions = JSON.serialize(lstTypes);
-    }  
+    }
     
     @RemoteAction
     global static List<Account> getAccounts(){
