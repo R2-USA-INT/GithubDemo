@@ -4,8 +4,12 @@ global with sharing class Example_Controller {
     public static String jsonTypeOptions{get;set;}
     public static String jsonAccount2{get;set;}
     public static String jsonAccount3{get;set;}
+<<<<<<< HEAD
     public static String jsonAccount4{get;set;}
     public static String jsonAccount3678{get;set;}
+=======
+    public static String jsonAccount478{get;set;}
+>>>>>>> 10314a47e264b3a0e31266143a942357a01cff69
     
     global Example_Controller(){
         jsonAccount = JSON.serialize(new Account());
