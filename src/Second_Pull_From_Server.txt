@@ -9,3 +9,4 @@ Edited this file to reproduce "Conflict" scenarios
 Adding changes from SourceTree
 Adding changes from Github
 Adding from sourcetree branch
+Now in master
