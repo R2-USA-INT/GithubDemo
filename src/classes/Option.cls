@@ -5,6 +5,7 @@ global class Option {
     public String key;
     public String img;
     public String imgUrl;
+    //some comments
     
     global Option(String value, String key){
         this.value = value;
