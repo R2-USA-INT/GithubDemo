@@ -9,23 +9,16 @@ Amala Changes 1
 Piyush changes 1
 Amala Change2
 Neha Change 2
-<<<<<<< HEAD
 Piyush from Github
 New Change
 From Eclipse
 Pushed conflicts
 More chnages
-<<<<<<< HEAD
 Adding from Pbathwal@deloitte.com
-SourceTree change
-
-=======
-=======
 Neha Change 3
 Neha Change 4 - New commit  
 Test New Neha Changes
 test neha 112  
 change in stratosource  
 change try again for stratosource.  
->>>>>>> 651c886220aa65d4d9914769c5885381c56d5632
 Conflict test in source tree
